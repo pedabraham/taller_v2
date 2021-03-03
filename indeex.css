@@ -1,0 +1,16 @@
+body{
+    background-color: #445d7a;
+    text-align: center;
+    color: white;
+}
+
+.amarillo{
+    color: white;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
